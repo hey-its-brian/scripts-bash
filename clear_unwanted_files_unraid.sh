@@ -1,0 +1,1 @@
+find /mnt/user/media/ -type f \( -name "*.m3u" -o -name "*.sfv"\) -delete
